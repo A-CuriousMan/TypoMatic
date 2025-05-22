@@ -1,10 +1,18 @@
-# TypoMatic
-This repository contains a lot of typo websites that could potentially steal your information and access your accounts.
-Remember to open this websites at your own risk, if anyone told you to do this for another reason, its a scam, most of this websites are malicious and could steal all your information!
+**The dangers of misspelling a url in a single folder.**
 
-We are not responsible of any damage that these websites could've made on your computer.
+In this repository you will find a lot of web pages that try to impersonate giant companies, the purpose of this is to keep you safe and raise awareness of the dangers that can occur when we misspell a web page.
 
-¿Found a scammer? Report it in the comments.
+Remember that if you are going to open these web pages, it is necessary to take **security measures** before, for example:
+
+- Using a virtual machine
+- Create a new and unused e-mail address.
+- Delete all passwords from your google account.
+- Use a new phone number (if necessary).
+
+(If someone promised you that something incredible would happen if you opened these pages please do not believe them, they are trying to take your personal data)
 
 
-Make sure to always open the latest version of the file, since it has an updated version of the websites.
+
+**Credits:**
+
+@Tranium - Idea
